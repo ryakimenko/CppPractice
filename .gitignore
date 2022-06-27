@@ -1,0 +1,10 @@
+Makefile
+CMakeCache.txt
+main
+CMakeFiles
+build
+*.a
+CTestTestfile.cmake
+DartConfiguration.tcl
+runUnitTests
+.vscode
